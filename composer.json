@@ -1,0 +1,18 @@
+{
+    "name": "restful/trading_service",
+    "description": "This is service application for the trading system",
+    "authors": [
+        {
+            "name": "jackydeng",
+            "email": "ewolf@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "php-curl-class/php-curl-class": "^7.2",
+        "ext-phalcon": "^2.0",
+        "phalcon/incubator": "^2.0",
+        "riverslei/payment": "~4.0"
+    }
+
+}
